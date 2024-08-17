@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c76629c9-54ff-441b-9bd5-af2e4eb5423d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/controllers/FirstController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/controllers/PeopleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/dao/PersonDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/controllers/FirstController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/controllers/SecondController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second/exit.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +91,11 @@
     "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.rinat.springMvcApp1.dao" />
+    </key>
+  </component>
   <component name="RunManager" selected="Smart Tomcat.Tomcat10">
     <configuration name="Tomcat10" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
