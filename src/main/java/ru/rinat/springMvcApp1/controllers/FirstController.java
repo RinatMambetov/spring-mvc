@@ -27,7 +27,7 @@ public class FirstController {
                                  @RequestParam(value = "b") int b,
                                  @RequestParam(value = "action") String action,
                                  Model model) {
-        int result = 0;
+        double result = 0;
         switch (action) {
             case "addition" -> result = a + b;
             case "subtraction" -> result = a - b;
@@ -37,10 +37,12 @@ public class FirstController {
                     model.addAttribute("result", "Division by zero is not allowed");
                     return "first/calculator";
                 }
-                result = a / b;
+                result = (double) a / b;
             }
         }
-        model.addAttribute("result", "The result is " + result);
+        result = Math.round(result * 100.0) / 100.0;
+        model.addAttribute("result",
+                "The result is " + result);
         return "first/calculator";
     }
 }
