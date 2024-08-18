@@ -31,4 +31,9 @@ public class PersonDAO {
                 .findFirst()
                 .orElse(null);
     }
+
+    public void save(Person person) {
+        person.setId(++people_count);
+        people.add(person);
+    }
 }
