@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c76629c9-54ff-441b-9bd5-af2e4eb5423d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/controllers/BatchController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/batch/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/dao/PersonDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/first_db.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
