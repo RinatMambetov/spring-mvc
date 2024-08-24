@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c76629c9-54ff-441b-9bd5-af2e4eb5423d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/first_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/first_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/util/PersonValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/controllers/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/controllers/PeopleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/rinat/springMvcApp1/dao/PersonDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +81,12 @@
     "Smart Tomcat.Tomcat9.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/rinat/IdeaProjects/spring-mvc-app1/src/main/webapp/WEB-INF/views/batch",
+    "last_opened_file_path": "/Users/rinat/IdeaProjects/spring-mvc-app1",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "actions.on.save"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -90,6 +94,7 @@
       <recent name="ru.rinat.springMvcApp1.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/batch" />
     </key>
   </component>
